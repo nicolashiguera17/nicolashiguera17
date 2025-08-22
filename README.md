@@ -1,11 +1,11 @@
-<!-- Banner animado -->
+<!-- Banner con fondo degradado animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hola!+Soy+Nicolas+Higuera;Desarrollador+FullStack+en+proceso;Apasionado+por+la+Tecnología+%F0%9F%92%BB;Siempre+aprendiendo+y+creciendo!+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A0DAD&height=200&section=header&text=Nicolas%20Higuera&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h1 align="center">
-  👋 ¡Bienvenido a mi perfil! 
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hola!+Soy+Nicolas+Higuera;Desarrollador+FullStack+en+proceso;Apasionado+por+la+tecnología+💻;Siempre+aprendiendo+y+creciendo!+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -13,13 +13,15 @@
 
 🎓 Apasionado por la **programación y la tecnología** desde el colegio.  
 📚 Actualmente estudio en **CampusLands**, donde desarrollo habilidades técnicas y blandas.  
-⚡ Objetivo: crecer como **desarrollador fullstack** y aportar soluciones innovadoras al mundo tech.  
+⚡ Objetivo: crecer como **desarrollador fullstack** y aportar soluciones innovadoras.  
+
+<!-- Separador wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:00C2FF&height=120&section=footer"/>
 
 ---
 
 ## 💻 Mis Habilidades
 
-### 🔹 Lenguajes y Tecnologías
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -30,6 +32,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
+<!-- Separador wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A0DAD&height=120&section=footer"/>
 
 ---
 
@@ -44,6 +49,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolashiguera17&theme=tokyonight" alt="streak" height="165"/>
 </p>
 
+<!-- Separador wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:00C2FF&height=120&section=footer"/>
+
 ---
 
 ## 📫 Conéctate conmigo
@@ -55,10 +63,16 @@
   <a href="https://instagram.com/nicxh17" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/nicolas-diaz-higuera-02127a313/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-higuera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+<!-- Banner de cierre -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A0DAD&height=150&section=footer"/>
+</p>
+
 
 ---
 
